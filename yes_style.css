@@ -22,3 +22,19 @@ body {
     max-width: 500px; 
     height: auto; 
 }
+
+.yes-button {
+    padding: 12px 28px;
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin: 20px 0;
+    transition: background 0.2s;
+}
+
+.yes-button:hover {
+    background-color: #ff1493;
+}
